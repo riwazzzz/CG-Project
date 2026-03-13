@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\User\OneDrive\Desktop\CG Project\RocketSimulation\main.c(803,46): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+  RocketSimulation.vcxproj -> C:\Users\User\OneDrive\Desktop\CG Project\RocketSimulation\x64\Debug\RocketSimulation.exe

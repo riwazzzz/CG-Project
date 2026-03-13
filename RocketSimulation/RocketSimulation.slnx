@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RocketSimulation.vcxproj" Id="8b2b0590-648b-4435-9d7b-427b774c30e4" />
+</Solution>
